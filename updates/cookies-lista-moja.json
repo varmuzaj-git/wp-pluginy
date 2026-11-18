@@ -1,0 +1,17 @@
+{
+ "name": "Cookies lišta moja",
+ "slug": "cookies-lista-moja",
+ "version": "1.2.0",
+ "download_url": "https://raw.githubusercontent.com/varmuzaj-git/wp-pluginy/main/releases/cookies-lista-moja-1.2.0.zip",
+ "homepage": "https://github.com/varmuzaj-git/wp-pluginy",
+ "author": "Jan Varmuža",
+ "requires": "6.0",
+ "requires_php": "7.4",
+ "tested": "7.1",
+ "last_updated": "2026-11-18 14:28:44",
+ "sections": {
+  "description": "<p>Jednoduchá a lehká cookies lišta s automatickým prohledáním webu.</p>",
+  "changelog": "<h4>1.2.0</h4><ul><li>Aktualizace z GitHubu (knihovna Plugin Update Checker 5.7, načítá se jen v administraci, cronu a pro MainWP).</li><li>Zahrnuje úpravy z 1.1.2: vyšší specificita CSS (.clm-root), tlačítko zástupného bloku YouTube v barvě akcentu.</li></ul>"
+ },
+ "sha256": "d2c67d70e045edde6d327fd2829fd8964a4f8bf54e23c35b8cdc472e45c8d05e"
+}

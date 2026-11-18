@@ -1,0 +1,17 @@
+{
+ "name": "Bezpečnost",
+ "slug": "bezpecnost",
+ "version": "1.2.0",
+ "download_url": "https://raw.githubusercontent.com/varmuzaj-git/wp-pluginy/main/releases/bezpecnost-1.2.0.zip",
+ "homepage": "https://github.com/varmuzaj-git/wp-pluginy",
+ "author": "Jan Varmuža",
+ "requires": "6.0",
+ "requires_php": "7.4",
+ "tested": "7.1",
+ "last_updated": "2026-11-18 14:28:44",
+ "sections": {
+  "description": "<p>Lehká náhrada pluginů WPS Hide Login / Admin Login URL Change, Disable XML-RPC a základního omezení pokusů o přihlášení.</p>",
+  "changelog": "<h4>1.2.0</h4><ul><li>Aktualizace z GitHubu (knihovna Plugin Update Checker 5.7, načítá se jen v administraci, cronu a pro MainWP).</li></ul>"
+ },
+ "sha256": "6d0b51ca06d51a4992fb43adc560fa7281e61a5bd2aaa257b7642ce27f195ff3"
+}
